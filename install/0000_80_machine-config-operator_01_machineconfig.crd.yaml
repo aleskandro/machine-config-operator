@@ -340,7 +340,7 @@ spec:
                 nullable: true
               kernelType:
                 description: Contains which kernel we want to be running like default
-                  (traditional), realtime, 64k pages
+                  (traditional), realtime, 64k-pages
                 type: string
               osImageURL:
                 description: OSImageURL specifies the remote location that will be used
